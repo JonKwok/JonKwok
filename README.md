@@ -1,1 +1,3 @@
-Hi there, I'm Jon
+### Hi there, I'm Jon
+
+I'm a Developer Engineer
